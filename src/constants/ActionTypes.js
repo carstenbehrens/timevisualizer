@@ -1,0 +1,13 @@
+export const ADD_ONE = 'ADD_ONE';
+export const START = 'START';
+export const STOP = 'STOP';
+export const ADD_ACTIVITY = 'ADD_ACTIVITY';
+export const PAUSE = 'PAUSE';
+export const UNPAUSE = 'UNPAUSE';
+export const SET_ACTIVITY_LIST = 'SET_ACTIVITY_LIST';
+export const STOPPED_FETCHING = 'STOPPED_FETCHING';
+export const IS_FETCHING = 'IS_FETCHING';
+export const SET_START_DATE = 'SET_START_DATE';
+export const SET_END_DATE = 'SET_END_DATE';
+export const LOGIN = 'LOGIN';
+export const LOGOUT = 'LOGOUT';

@@ -6,8 +6,13 @@ You can login using:
     Password:   testing
 
 In effort to learn React and Redux and Firebase, this is TimeVisualizer, a simple Time Tracking web application.
+## Built With:
+- react
+- redux
+- router
+- firebase
 
-## Development
+## Development:
 
 * `git clone git@github.com:carstenbehrens/timevisualizer.git`
 * cd timevisualizer-master

@@ -1,5 +1,7 @@
 # timevisualizer
 
+! WARNING: THIS WAS MY FIRST PROJECT AFTER I STARTED PROGRAMMING, PLEASE PROTECT YOUR EYES BEFORE READING THIS CODE !
+
 See it live at https://timevisualizer.herokuapp.com
 You can login using: 
     Email:      test@test.de
